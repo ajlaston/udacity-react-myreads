@@ -1,4 +1,4 @@
-React Myreads project 1
+Udacity React Myreads project 1
 
 Author : Adam Laston
 
