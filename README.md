@@ -1,6 +1,6 @@
 ## MyReads Book tracking app powered by React
 
-## Author : Adam Laston
+# Author : Adam Laston
 
 ## Description :
 
